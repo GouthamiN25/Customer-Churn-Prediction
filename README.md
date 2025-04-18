@@ -1,6 +1,8 @@
 ## 📊 Customer Churn Prediction Capstone
 A Data Science Approach to Improving Customer Retention
 
+![image](https://github.com/user-attachments/assets/032e61a3-793b-4253-896a-801b8e1637c2)
+
 ## 🔍 Overview
 This project focuses on predicting customer churn using the Telco Customer Churn dataset. The goal is to identify customers at risk of leaving and provide actionable insights to improve customer retention using a data-driven approach.
 
