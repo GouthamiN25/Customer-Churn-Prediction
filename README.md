@@ -3,10 +3,10 @@ A Data Science Approach to Improving Customer Retention
 
 ![image](https://github.com/user-attachments/assets/032e61a3-793b-4253-896a-801b8e1637c2)
 
-## 🔍 Overview
+## Overview
 This project focuses on predicting customer churn using the Telco Customer Churn dataset. The goal is to identify customers at risk of leaving and provide actionable insights to improve customer retention using a data-driven approach.
 
-## 🧠 Problem Statement
+## Problem Statement
 Customer churn can significantly impact a company’s revenue and growth. This project aims to:
 
 Build a classification model to predict churn (Yes/No)
@@ -15,7 +15,7 @@ Analyze customer behavior based on contract types, monthly charges, and service 
 
 Provide data-driven recommendations for reducing churn
 
-## 🔧 Technologies Used
+## Technologies Used
 Languages: Python, SQL
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
@@ -24,7 +24,7 @@ Models: Logistic Regression, Random Forest, Lasso Regression
 
 Other Tools: SMOTE for class balancing, GridSearchCV for hyperparameter tuning
 
-## 🔍 CRISP-DM Approach
+## CRISP-DM Approach
 Business Understanding: Churn impacts revenue and customer acquisition costs; predicting it helps retention.
 
 Data Understanding: Used Telco dataset with customer demographics, contract, and service data.
@@ -37,14 +37,14 @@ Modeling: Trained and compared multiple ML models. Addressed class imbalance usi
 
 Evaluation: Used ROC-AUC, accuracy, classification report, and confusion matrix for model validation.
 
-## 📈 Key Insights
+## Key Insights
 Customers with month-to-month contracts and higher monthly charges are more likely to churn.
 
 Certain payment methods show higher churn patterns, highlighting user dissatisfaction.
 
 Targeted retention strategies, discount offers, and promoting long-term contracts can improve retention.
 
-## 📌 Recommendations
+## Recommendations
 Personalize retention efforts for high-risk segments like month-to-month users or senior customers.
 
 Offer incentives to encourage commitment to long-term plans.
