@@ -1,4 +1,4 @@
-## 📊 Customer Churn Prediction Capstone
+## Customer Churn Prediction Capstone
 A Data Science Approach to Improving Customer Retention
 
 ![image](https://github.com/user-attachments/assets/032e61a3-793b-4253-896a-801b8e1637c2)
