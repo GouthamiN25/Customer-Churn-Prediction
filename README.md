@@ -35,7 +35,7 @@ EDA: Analyzed relationships between churn and features like contract type, payme
 
 Modeling: Trained and compared multiple ML models. Addressed class imbalance using SMOTE.
 
-Evaluation:  Used ROC-AUC, accuracy, classification report, and confusion matrix for model validation.
+Evaluation: Used ROC-AUC, accuracy, classification report, and confusion matrix for model validation.
 
 ## Key Insights
 Customers with month-to-month contracts and higher monthly charges are more likely to churn.
