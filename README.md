@@ -6,7 +6,7 @@ A Data Science Approach to Improving Customer Retention
 ## Overview
 This project focuses on predicting customer churn using the Telco Customer Churn dataset. The goal is to identify customers at risk of leaving and provide actionable insights to improve customer retention using a data-driven approach.
 
-## Problem Stateme nt
+## Problem Statement
 Customer churn can significantly impact a company’s revenue and growth. This project aims to:
 
 Build a classification model to predict churn (Yes/No)
@@ -35,7 +35,7 @@ EDA: Analyzed relationships between churn and features like contract type, payme
 
 Modeling: Trained and compared multiple ML models. Addressed class imbalance using SMOTE.
 
-Evaluation: Used ROC-AUC, accuracy, classification report, and confusion matrix for model validation.
+Evaluation:  Used ROC-AUC, accuracy, classification report, and confusion matrix for model validation.
 
 ## Key Insights
 Customers with month-to-month contracts and higher monthly charges are more likely to churn.
